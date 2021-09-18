@@ -3,7 +3,7 @@
     A Brief History About Me
 
 - I works on front-end tech. 
-- I ain't not a genius 🤓 but a curious 😻 one.
+- I ain't a genius 🤓 but a curious 😻 one.
 - Love to read tech blog and gets my hands dirty.
 
 <!--
