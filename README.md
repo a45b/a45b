@@ -1,6 +1,6 @@
 ### Hi there 👋👋👋
 
-    A Brief History about Me
+    A Brief History About Me
 
 - I works on front-end tech. 
 - I ain't not a genius 🤓 but a curious 😻 one.
