@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋👋👋
+
+    A Brief History about Me
+
+- I works on front-end tech. 
+- I ain't not a genius 🤓 but a curious 😻 one.
+- Love to read tech blog and gets my hands dirty.
 
 <!--
 **a45b/a45b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
