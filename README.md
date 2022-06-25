@@ -2,9 +2,9 @@
 
     A Brief History About Me
 
-- I works on front-end tech. 
-- I ain't a genius 🤓 but a curious 😻 one.
-- Love to read tech blog and gets my hands dirty.
+- I works on front-end primarily but 🫶 rubyonrails & elixir.
+- I ain't a genius 🤓 but a curious 😻 one. Explore everything. 
+- Love to read tech blog and gets my just my hands 🤚 dirty 🧼.
 
 <!--
 **a45b/a45b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
