@@ -2,7 +2,7 @@
 
     A Brief History About Me
 
-- I works on front-end primarily but 🫶 rubyonrails & elixir.
+- I works on front-end primarily but 🫶 backend and system design.
 - I ain't a genius 🤓 but a curious 😻 one. Explore everything. 
 - Love to read tech blog and gets my just my hands 🤚 dirty 🧼.
 
